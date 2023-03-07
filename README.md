@@ -1,6 +1,6 @@
 # Tech-Blog
 
-# DESCRIPTION
+# Description
 
 This application enables users to signup/login to the site and create/update blog posts or leave comments on posts. Even if they are not logged in, they can still see posts and comment. The summary is as follows:
 
@@ -10,13 +10,13 @@ When logged in, they can create new posts, edit/delete their own posts and leave
 Users' login credentials are saved securely (encrypted).
 This application follows Model-View-Controller paradigm so it can be easily maintained and edited.
 
-# TABLE OF CONTENTS
+# Table of contents
 
 INSTALLATION
 
 QUESTIONS
 
-# INSTALLATION
+# Installation
 
 express
 
@@ -32,11 +32,11 @@ handlebars
 
 express-handlebars
 
-# CREDIT
+# Credit
 
 I will give a huge credit to shohei-mochizuki. although my code doesn't finished yet and I have errors but without his help I couldn't do this much.
 
-# QUESTIONS
+# Questions
 
 If you have any questions, feel free to reach out to me!
 GitHub page: https://github.com/mojsun
