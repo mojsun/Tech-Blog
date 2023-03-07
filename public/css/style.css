@@ -13,13 +13,13 @@
 
 /* Nav & Header */
 nav {
-  background-color: var(--tertiary);
+  background-color: #efec4b;
   margin: 0%;
   padding: 10px;
 }
 
 nav a {
-  color: var(--light);
+  color: rgb(18, 76, 112);
   padding: 14px 20px;
   font-size: 20px;
   font-weight: bold;
@@ -28,20 +28,20 @@ nav a {
 }
 
 nav a:hover {
-  color: var(--secondary);
-  background-color: var(--primary);
+  color: olive;
+  background-color: orange;
 }
 
 header {
   padding: 10px;
   text-align: center;
-  background: var(--primary);
-  color: var(--light);
+  background: orange;
+  color: olive;
 }
 
 /* Main */
 .main {
-  background-color: #fff;
+  background-color: lightcyan;
   font-family: Arial;
   width: 100%;
 
@@ -55,6 +55,7 @@ header {
   background-color: var(--light);
   color: var(--primary);
   position: relative;
+  border-radius: 10px;
 }
 
 .card-title {
@@ -93,12 +94,12 @@ header {
   margin: 20px;
   text-align: center;
   border: solid black;
-  background-color: var(--tertiary);
+  background-color: orange;
 }
 
 .add-comment-title {
   margin: 5px;
-  color: var(--light);
+  color: olive;
 }
 
 #content-newcomment,
