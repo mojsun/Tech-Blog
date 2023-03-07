@@ -47,7 +47,7 @@ express-handlebars
 
 # Credit
 
-I will give a huge credit to shohei-mochizuki. although my code doesn't finished yet and I have errors but without his help I couldn't do this much.
+I will give a huge credit to shohei-mochizuki without his help I couldn't do this much.
 
 # Questions
 
