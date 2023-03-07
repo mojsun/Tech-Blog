@@ -12,9 +12,11 @@ This application follows Model-View-Controller paradigm so it can be easily main
 
 # Table of contents
 
-INSTALLATION
+Installation
 
-QUESTIONS
+Credit
+
+Questions
 
 # Installation
 
