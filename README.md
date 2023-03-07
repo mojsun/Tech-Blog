@@ -47,7 +47,8 @@ express-handlebars
 
 # Credit
 
-I will give a huge credit to shohei-mochizuki without his help I couldn't do this much.
+I give a huge credit to shohei-mochizuki without his help I couldn't do this much.
+also I receive help from ask BCS learning assisstant.
 
 # Questions
 
