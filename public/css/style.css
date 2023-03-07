@@ -1,8 +1,8 @@
 /* General  */
 :root {
   --primary: #030929;
-  --secondary: #80bdfa;
-  --tertiary: #3e5b9f;
+  --secondary: #59b49e;
+  --tertiary: #10755c;
   --light: #ffffff;
 }
 
@@ -41,13 +41,10 @@ header {
 
 /* Main */
 .main {
-  /* flex: 4; */
   background-color: #fff;
   font-family: Arial;
   width: 100%;
-  /* display: flex; */
-  /* flex-flow: row wrap; */
-  /* justify-content: center; */
+
   align-items: center;
 }
 
@@ -130,14 +127,14 @@ header {
 }
 
 .btn-new-post a {
-  color: white;
+  color: #fff;
   text-decoration: none;
 }
 
 .new-post {
   margin: 20px;
   text-align: center;
-  border: solid black;
+  border: solid #000;
   background-color: var(--primary);
   color: var(--light);
 }
@@ -149,7 +146,7 @@ header {
 .login-signup {
   margin: 20px;
   text-align: center;
-  border: solid black;
+  border: solid #000;
   background-color: rgb(77, 70, 70);
   color: var(--light);
 }
@@ -164,7 +161,7 @@ header {
 }
 
 .login-signup a {
-  color: white;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
